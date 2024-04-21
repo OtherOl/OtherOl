@@ -24,12 +24,6 @@
       </td>
       <td align="center" width="110" height="90">
         <a href="https://github.com/Lystrillian#stack">
-          <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" style="max-width: 100%;">
-        </a>
-        <br>CSS3
-      </td>
-      <td align="center" width="110" height="90">
-        <a href="https://github.com/Lystrillian#stack">
           <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" style="max-width: 100%;">
         </a>
         <br>Git
@@ -66,6 +60,24 @@
           <img src="https://camo.githubusercontent.com/b1682bc4f2a98f3cc9efa5668ffd71cd1ae04ab57a8f2e65a9e3c8529924b61d/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e6f64656a732d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="Node JS" data-canonical-src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" style="max-width: 100%;">
         </a>
         <br>Node JS
+      </td>
+      <td align="center" width="110" height="90">
+        <a href="https://github.com/Lystrillian#stack">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="Node JS" style="max-width: 100%;">
+        </a>
+        <br>Nest JS
+      </td>
+      <td align="center" width="110" height="90">
+        <a href="https://github.com/Lystrillian#stack">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="36" height="36" alt="Node JS" style="max-width: 100%;">
+        </a>
+        <br>Express JS
+      </td>
+      <td align="center" width="110" height="90">
+        <a href="https://github.com/Lystrillian#stack">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="Mongo DB" style="max-width: 100%;">
+        </a>
+        <br>PostgreSql
       </td>
       <td align="center" width="110" height="90">
         <a href="https://github.com/Lystrillian#stack">
