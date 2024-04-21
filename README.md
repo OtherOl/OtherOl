@@ -69,7 +69,7 @@
       </td>
       <td align="center" width="110" height="90">
         <a href="https://github.com/OtherOl#stack">
-          <img src="https://icons8.com/icon/WNoJgbzDr3i2/express-js" width="36" height="36" alt="Node JS" style="max-width: 100%;">
+          <img src="http://www.w3.org/2000/svg" width="36" height="36" alt="Node JS" style="max-width: 100%;">
         </a>
         <br>Express JS
       </td>
