@@ -69,7 +69,7 @@
       </td>
       <td align="center" width="110" height="90">
         <a href="https://github.com/OtherOl#stack">
-          <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA" width="36" height="36" alt="Node JS" style="max-width: 100%;">
+          <img src="https://www.pngwing.com/en/free-png-sreax" width="36" height="36" alt="Node JS" style="max-width: 100%;">
         </a>
         <br>Express JS
       </td>
