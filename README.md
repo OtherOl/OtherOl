@@ -75,6 +75,12 @@
       </td>
       <td align="center" width="110" height="90">
         <a href="https://github.com/OtherOl#stack">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" width="36" height="36" alt="Mongo DB" style="max-width: 100%;">
+        </a>
+        <br>Axios
+      </td>
+      <td align="center" width="110" height="90">
+        <a href="https://github.com/OtherOl#stack">
           <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="Mongo DB" style="max-width: 100%;">
         </a>
         <br>PostgreSql
