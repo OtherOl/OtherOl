@@ -24,6 +24,12 @@
       </td>
       <td align="center" width="110" height="90">
         <a href="https://github.com/OtherOl#stack">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;">
+        </a>
+        <br>CSS3
+      </td>      
+      <td align="center" width="110" height="90">
+        <a href="https://github.com/OtherOl#stack">
           <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" style="max-width: 100%;">
         </a>
         <br>Git
