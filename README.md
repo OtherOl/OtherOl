@@ -102,10 +102,16 @@
     <tr>
       <td align="center" width="110" height="90">
         <a href="https://github.com/OtherOl#stack">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="Mongo DB" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" style="max-width: 100%;">
         </a>
         <br>React
       </td>
+      <td align="center" width="110" height="90">
+        <a href="https://github.com/OtherOl#stack">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next js" style="max-width: 100%;">
+        </a>
+        <br>Next js
+      </td>      
     </tr>
   </tbody>
 </table>
