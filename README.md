@@ -129,7 +129,7 @@
     <tr>
       <td align="center" width="110" height="90">
         <a href="https://github.com/OtherOl#stack">
-          <img src="https://camo.githubusercontent.com/2bae65dbfc757f308fb41302f674b5b4dc6d4dea42ecd75fc58fa5cdb0d4befd/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4a2f4a6573742d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="Jest" data-canonical-src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" style="max-width: 100%;">
+          <img src="https://www.svgrepo.com/show/353930/jest.svg" width="36" height="36" alt="Jest" data-canonical-src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" style="max-width: 100%;">
         </a>
         <br>Jest
       </td>
@@ -144,13 +144,13 @@
     <tr>
       <td align="center" width="110" height="90">
         <a href="https://github.com/OtherOl#stack">
-          <img src="https://camo.githubusercontent.com/fd4a42ce74013aa14961f63b6f14717277806286c899e1a6a7565b6b2befed6b/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f452f45736c696e742d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="eslint" data-canonical-src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" style="max-width: 100%;">
+          <img src="https://www.svgrepo.com/show/439151/eslint.svg" width="36" height="36" alt="eslint" data-canonical-src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" style="max-width: 100%;">
         </a>
         <br>ESLint
       </td>
       <td align="center" width="110" height="90">
         <a href="https://github.com/OtherOl#stack">
-          <img src="https://camo.githubusercontent.com/dad4532cf65827e9b3ce320a9249dda7c8ce505cba4dd514455eb6ca133e5a94/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f502f50726574746965722d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="prettier" data-canonical-src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" style="max-width: 100%;">
+          <img src="https://www.svgrepo.com/show/439270/prettier.svg" width="36" height="36" alt="prettier" data-canonical-src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" style="max-width: 100%;">
         </a>
         <br>Prettier
       </td>
