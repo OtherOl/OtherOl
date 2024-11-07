@@ -63,7 +63,7 @@
     <tr>
       <td align="center" width="110" height="90">
         <a href="https://github.com/OtherOl#stack">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="36" height="36" alt="Node JS" data-canonical-src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" style="max-width: 100%;">
+          <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" width="36" height="36" alt="Node JS" data-canonical-src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" style="max-width: 100%;">
         </a>
         <br>Node JS
       </td>
